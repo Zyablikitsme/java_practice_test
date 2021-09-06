@@ -12,6 +12,4 @@ public class TestAuthor {
 
         System.out.println(autho);
     }
-
-
 }
